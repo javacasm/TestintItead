@@ -50,7 +50,7 @@ El editor sólo está disponible para Windows
  1× power supply test board
  1× 4-pin grove cable
 
- ## [Placa de expansión](https://www.itead.cc/nextion-expansion-board.html?acc=70efdf2ec9b086079795c442636b55fb)
+## [Placa de expansión](https://www.itead.cc/nextion-expansion-board.html?acc=70efdf2ec9b086079795c442636b55fb)
 
 * 6 pulsadores: Esc, Enter, Left, Right, UP, Down
 * buzzer
