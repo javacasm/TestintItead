@@ -17,3 +17,12 @@ Permite seleccionar entre 5V y 3.3V
 ![3pines](https://cdn.itead.cc/media/wysiwyg/Products/im120724001-4.jpg)
 
 * Todos los pines están etiquetados y además permiten añadir conexiones además de las estándar de Arduino
+
+
+## Descripción de la placa iTeaduino UNO
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/IxYyOhElp_U" frameborder="0" allowfullscreen></iframe>
+
+## Probando la placa con 5 servos
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fyX0IBi0DRc" frameborder="0" allowfullscreen></iframe>
