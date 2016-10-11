@@ -1,7 +1,11 @@
 Se trata de una solución HMI ([Human-machine Interface](https://en.wikipedia.org/wiki/User_interface)) que nos permite la relación con el usuario de una forma sencilla.
 
-Es una pantalla TFT
+Es una pantalla TFT, tiene un RTC y un lector de tarjetas SD
 
+![back](https://lh3.googleusercontent.com/XZiado1gXqQg79TjF1PMWADmmPLQBYN8CXt2fiU1QwXW7XKqFRPgX4V740GGUKOyfMJCoaDNIrQ=w1435-h797-no)
+
+
+![kit](https://lh3.googleusercontent.com/pJvtP9li3W0KkZ8oqmuS54wVefsvQWrXyYbOmDjAMuk-VbLxI8vjG4k9hE85AWUjPXwRceJ9GHk=w1718-h796-no)
 
 [Documentación](https://www.itead.cc/wiki/Nextion_HMI_Solution)
 
