@@ -1,7 +1,5 @@
-El fabricante y desarrollador de placas electrónicas Itead nos ha enviado unas placas [Iteaduino Arduino UNO](https://www.itead.cc/iteaduino-uno.html?acc=70efdf2ec9b086079795c442636b55fb)
+El fabricante y desarrollador de placas electrónicas [Itead](https://www.itead.cc/) nos ha enviado unas placas [Iteaduino Arduino UNO](https://www.itead.cc/iteaduino-uno.html?acc=70efdf2ec9b086079795c442636b55fb)
  y [Iteaduino Arduino Leonardo](https://www.itead.cc/iteaduino-leonardo.html?acc=70efdf2ec9b086079795c442636b55fb)
-
-Ambas placas no solo son totalmente compatibles con las placas Arduino UNO y Arduino Leonardo, tanto en la disposición de los pines como en su programación, sino que la mejoran en muchos aspectos
 
 [Iteaduino Arduino UNO](https://www.itead.cc/iteaduino-uno.html?acc=70efdf2ec9b086079795c442636b55fb)
 
@@ -16,7 +14,9 @@ En esta imagen, a simple vista vemos que se ha mejorado la conectividad añadien
 
 La placa iteaduino-leonardo también añade más pines para facilitar la conectividad.
 
-## Descrición de las mejoras
+Ambas placas no solo son totalmente compatibles con las placas Arduino UNO y Arduino Leonardo (tanto en la disposición de los pines como en su programación) sino que la mejoran en bastantes aspectos.
+
+## Descripción de las mejoras
 
 Veamos algunas de las mejoras incluidas:
 
@@ -46,11 +46,11 @@ Todo esto hace que la placa sea ideal para realizar montajes de robots. Además 
 
 Veamos un par de vídeos:
 
-Un vídeo donde hacemos una descripción de la placa iTeaduino UNO
+* Un vídeo donde hacemos una descripción de la placa iTeaduino UNO
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/IxYyOhElp_U" frameborder="0" allowfullscreen></iframe>
 
-En este segundo vídeo veremos la capacidad de la placa para alimentar hasta 5 servos de granformato al mismo tiempo, lo que nos da idea de la potencia que puede manejar.
+* En este segundo vídeo veremos la capacidad de la placa para alimentar hasta 5 servos de granformato al mismo tiempo, lo que nos da idea de la potencia que puede manejar.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/fyX0IBi0DRc" frameborder="0" allowfullscreen></iframe>
 
